@@ -1,34 +1,34 @@
 # Employee-Attrition-Prediction
 Employee Attrition Prediction – Project Roadmap
-📌 Phase 1: Problem Understanding & Business Context
+Phase 1: Problem Understanding & Business Context
 Goal: Align data science work with HR strategy
-🔹 Understand cost of attrition
-🔹 Define business questions:
+Understand cost of attrition
+Define business questions:
 •	Who is likely to leave?
 •	Why are they leaving?
 •	Which departments are at highest risk?
-📦 Output:
+Output:
 •	Problem statement
 •	Success metrics (Recall, Precision)
 ________________________________________
-📌 Phase 2: Data Collection & Integration
+ Phase 2: Data Collection & Integration
 Goal: Prepare HR data for analysis
-🔹 Import HR dataset (IBM HR Analytics)
-🔹 Identify feature types:
-•	Numerical (Age, Income, YearsAtCompany)
-•	Categorical (JobRole, Department, OverTime)
-📦 Output:
+ Import HR dataset (IBM HR Analytics)
+ Identify feature types:
+	Numerical (Age, Income, YearsAtCompany)
+Categorical (JobRole, Department, OverTime)
+Output:
 •	Raw dataset stored safely
 ________________________________________
-📌 Phase 3: Data Cleaning & Preprocessing
+Phase 3: Data Cleaning & Preprocessing
 Goal: Make data ML-ready
-🔹 Handle missing values
-🔹 Remove irrelevant columns
-🔹 Encode categorical features:
-•	Label Encoding (ordinal)
-•	One-Hot Encoding (nominal)
-🔹 Feature scaling (optional)
-📦 Output:
+ Handle missing values
+ Remove irrelevant columns
+ Encode categorical features:
+Label Encoding (ordinal)
+One-Hot Encoding (nominal)
+Feature scaling (optional)
+Output:
 •	Cleaned & encoded dataset
 ________________________________________
 📌 Phase 4: Exploratory Data Analysis (EDA)
